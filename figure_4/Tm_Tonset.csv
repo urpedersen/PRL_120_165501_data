@@ -1,0 +1,9 @@
+particle_type,melting_temperature,onset_temperature
+A,0.79,0.83
+A,1.02,1.05
+A,1.41,1.41
+A,2.388,2.27
+B,0.79,0.81
+B,1.02,1.06
+B,1.41,1.44
+B,2.388,2.35
