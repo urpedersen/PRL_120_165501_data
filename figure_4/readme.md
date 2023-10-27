@@ -49,3 +49,4 @@ The needed data is in `liquid.csv`
 
 See `isomorph_theory.py` for an implementation.
 
+![Isomorph theory prediction](isomorph_theory.png)
