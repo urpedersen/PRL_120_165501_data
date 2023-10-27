@@ -8,6 +8,11 @@ See sub-folders for more information.
 
 **Contact** Ulf R. Pedersen for questions.
 
+## Reference
+To reference this dataset, please use the following citation:
+1. Zenodo DOI: [10.5281/zenodo.10047450](https://doi.org/10.5281/zenodo.10047450)
+2. and the paper [Phys. Rev. Lett. 120, 165501 (2018); 10.1103/PhysRevLett.120.165501](https://doi.org/10.1103/PhysRevLett.120.165501) 
+
 ## Abstract of paper
 The binary Kob-Andersen (KA) Lennard-Jones mixture is the standard model for computational studies of viscous liquids
 and the glass transition. For very long simulations, the viscous KA system crystallizes, however, by phase separating 
